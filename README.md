@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🖐 Hi , I am [Masudur Rahman](https://masudur-personal-portfolio.netlify.app/)
+# <h1 align="center">🖐 Hi , I am [Masudur Rahman](https://masudur-personal-portfolio.netlify.app/)</h1>  
 
 ![Github Cover](githubcover.jpg)
 
