@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🌱 I'm currently Learning **Redux, Express & MongoDB**  😊 
 - 💻 Most used code `console.log()`
 - 🎯 2022 Goals: **MERN Stack Development**
-- 😂 Fun Fact: I love to travel
+- 😂 Fun Fact: I love to travel.
 - 📫 My Portfolio: [Masudur Rahman](https://masudur-personal-portfolio.netlify.app/)
 
 
