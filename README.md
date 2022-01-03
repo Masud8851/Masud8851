@@ -59,6 +59,5 @@ Here are some ideas to get you started:
 [![Npm Badge](https://img.shields.io/badge/npm-d7141a?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/Masud8851)
 [![Yarn Badge](https://img.shields.io/badge/yarn-0078D6?style=for-the-badge&logo=yarn&logoColor=white)](https://github.com/Masud8851)
 [![Google Chrome Badge](https://img.shields.io/badge/google_chrome-556532?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Masud8851)
-[![Notion Badge](https://img.shields.io/badge/notion-000?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/Masud8851)
 [![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/Masud8851)
 
