@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### Here are some ideas about me
 
 - 🎓 Graduated from [Daffodil International University](https://daffodilvarsity.edu.bd/)
- 🌱 I'm currently Learning **Redux, Express & MongoDB**  😊 
+- 🌱 I'm currently Learning **Redux, Express & MongoDB**  😊 
 - 💻 Most used code `console.log()`
 - 🎯 2022 Goals: **MERN Stack Development**
 - 😂 Fun Fact: I love to travel.
