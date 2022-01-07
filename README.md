@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 💻 Most used code `console.log()`
 - 🎯 2022 Goals: **MERN Stack Development**
 - 😂 Fun Fact: I love to travel.
-- 📫 My Portfolio: [Masudur Rahman](https://masudur-personal-portfolio.netlify.app/)  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=masudur-personal-portfolio.netlify.app/.masudur-personal-portfolio.netlify.app/)
+- 📫 My Portfolio: [Masudur Rahman](https://masudur-personal-portfolio.netlify.app/)  `![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=masudur-personal-portfolio.netlify.app/.masudur-personal-portfolio.netlify.app/) `
 - 💬 Ask me about **React.js Development**
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Masud8851.Masud8851)
