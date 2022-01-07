@@ -26,10 +26,14 @@ Here are some ideas to get you started:
 - 💻 Most used code `console.log()`
 - 🎯 2022 Goals: **MERN Stack Development**
 - 😂 Fun Fact: I love to travel.
-- 📫 My Portfolio: [Masudur Rahman](https://masudur-personal-portfolio.netlify.app/)  `![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=masudur-personal-portfolio.netlify.app/.masudur-personal-portfolio.netlify.app/) `
+- 📫 My Portfolio: [Masudur Rahman](https://masudur-personal-portfolio.netlify.app/) 
 - 💬 Ask me about **React.js Development**
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Masud8851.Masud8851)
+
+![Profile Follower Count](https://img.shields.io/github/followers/Masud8851.svg?style=for-the-badge&logo=github&label=Follower&maxAge=2592000)
+
+
 
 ## 💻 Languages and Tools:
 
@@ -54,18 +58,23 @@ Here are some ideas to get you started:
 [![Google Chrome Badge](https://img.shields.io/badge/google_chrome-556532?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Masud8851)
 [![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/Masud8851)
 
+
+
+
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masud8851&show_icons=true&theme=dark)](https://github.com/Masud8851/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masud8851&hide=TeX&layout=compact&show_icons=true&theme=dark)
 
 
+
+
 ## 🚀 Where to find me
 
-  [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/masud201342)
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/masudur.mim/)
-  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masudur-rahman15/)
-  [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Masud8851)
-  [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masud1971.cse@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/masud201342) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/masudur.mim/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masudur-rahman15/)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Masud8851)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masud1971.cse@gmail.com)
   
 
 
