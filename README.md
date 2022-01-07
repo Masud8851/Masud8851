@@ -62,6 +62,6 @@ Here are some ideas to get you started:
 [![Google Chrome Badge](https://img.shields.io/badge/google_chrome-556532?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Masud8851)
 [![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/Masud8851)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masud8851&show_icons=true&theme=radical))](https://github.com/Masud8851/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masud8851&hide=TeX&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masud8851&show_icons=true&theme=radical)](https://github.com/Masud8851/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masud8851&hide=TeX&layout=compact&show_icons=true&theme=radical)
 
