@@ -63,4 +63,5 @@ Here are some ideas to get you started:
 [![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/Masud8851)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masud8851)](https://github.com/Masud8851/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masud8851&hide=TeX&layout=compact)
 
