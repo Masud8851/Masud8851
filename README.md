@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![Profile Follower Count](https://img.shields.io/github/followers/Masud8851.svg?style=for-the-badge&logo=github&label=Follower&maxAge=2592000)
+
 -->
 
 
@@ -25,13 +27,12 @@ Here are some ideas to get you started:
 - 🌱 I'm currently Learning **Redux, Express & MongoDB**  😊 
 - 💻 Most used code `console.log()`
 - 🎯 2022 Goals: **MERN Stack Development**
-- 😂 Fun Fact: I love to travel.
+- 🌇 Fun Fact: I love to travel.
 - 📫 My Portfolio: [Masudur Rahman](https://masudur-personal-portfolio.netlify.app/) 
 - 💬 Ask me about **React.js Development**
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Masud8851.Masud8851)
 
-![Profile Follower Count](https://img.shields.io/github/followers/Masud8851.svg?style=for-the-badge&logo=github&label=Follower&maxAge=2592000)
 
 
 
