@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🎓 Graduated from [Daffodil International University](https://daffodilvarsity.edu.bd/) 
 - 🌱 I'm currently Learning **Redux, Express & MongoDB**  😊 
 - 💻 Most used code `console.log()`
-- 🎯 2022 Goals: **MERN Stack Development**
+- 🎯 2022 Goals: **MERN Stack Developer**
 - 🌇 Fun Fact: I love to travel.
 - 📫 My Portfolio: [Masudur Rahman](https://masudur-personal-portfolio.netlify.app/) 
 - 💬 Ask me about **React.js Development**
