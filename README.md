@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### <h1 align="center"> Hi there, I'm [Masudur Rahman!](https://masudur-personal-portfolio.netlify.app) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px"> </h1>
 
 
-### <h1 align="center" [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Front-end+Web+App+(React.js)+Developer;Self-taught;Always+Learning+new+techonologies)](https://git.io/typing-svg)></h1>
+### <h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Front-end+Web+App+(React.js)+Developer;Self-taught;Always+Learning+new+techonologies)](https://git.io/typing-svg)</h1>
 
 
 
@@ -27,14 +27,13 @@ Here are some ideas to get you started:
 
 
 ### Here are some ideas about me
-
-### - 🎓 Graduated from [Daffodil International University](https://daffodilvarsity.edu.bd/) 
-### - 🌱 I'm currently Learning **Redux, Express & MongoDB**  😊 
-### - 💻 Most used code `console.log()`
-### - 🎯 2022 Goals: **MERN Stack Developer**
-### - 🌇 Fun Fact: I love to travel.
-### - 📫 My Portfolio: [Masudur Rahman](https://masudur-personal-portfolio.netlify.app/) 
-### - 💬 Ask me about **React.js Development**
+- 🎓 Graduated from [Daffodil International University](https://daffodilvarsity.edu.bd/) 
+- 🌱 I'm currently Learning **Redux, Express & MongoDB**  😊 
+- 💻 Most used code `console.log()`
+- 🎯 2022 Goals: **MERN Stack Developer**
+- 🌇 Fun Fact: I love to travel.
+- 📫 My Portfolio: [Masudur Rahman](https://masudur-personal-portfolio.netlify.app/) 
+- 💬 Ask me about **React.js Development**
 
 
 ![](https://komarev.com/ghpvc/?username=Masud8851&color=blueviolet&label=Profile+Views)
