@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ![Profile Follower Count](https://img.shields.io/github/followers/Masud8851.svg?style=for-the-badge&logo=github&label=Follower&maxAge=2592000)
 -->
 
-### <h1 align="center"> Hi there, I'm [Masudur Rahman!](https://masudur-personal-portfolio.netlify.app) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px"> <br>  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Front-end+Web+App+(React.js)+Developer;Self-taught;Always+Learning+new+techonologies)](https://git.io/typing-svg) </h1>
+### <h1 align="center"> Hi there, I'm [Masudur Rahman!](https://masudur-personal-portfolio.netlify.app) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px"> <br>  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Front-end+Web+App+(React.js)+Developer;Always+Learning+new+techonologies)](https://git.io/typing-svg) </h1>
 
 
 
