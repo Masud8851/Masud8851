@@ -26,10 +26,13 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 
 ### Here are some ideas about me
 - 🎓 Graduated from [Daffodil International University](https://daffodilvarsity.edu.bd/) 
+- 🔭 <b>Currently working on:</b> ReactJs.
+- 🌱 <b>Getting better at:</b> Javascript and ES6.
 - 🎯 2022 Goals: ** Master React,Complete Rest Full API development, Complete MERN Stack. Contribute to Open Source projects.**
 - 🌇 Fun Fact: I really love to travel and explore new things and new places in my free time.
 - 📝 Please have a look at my [Resume](https://drive.google.com/file/d/1wkiK--OJw-cPIb4YzDkVaOSy1LiDC5oQ/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 - 📫 My Portfolio: [Masudur Rahman](https://masudur-personal-portfolio.netlify.app/) 
+- 💬 <b>Ask me about:</b> React, Js, ES6.
 
 
 ![](https://komarev.com/ghpvc/?username=Masud8851&color=blueviolet&label=Profile+Views)
@@ -70,12 +73,6 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masud8851&hide=TeX&layout=compact&show_icons=true&theme=dark)
 
 
-### Things you should know
-- 🔭 <b>Currently working on:</b> ReactJs
-- 🌱 <b>Getting better at:</b> Javascript and ES6
-- 💬 <b>Ask me about:</b> React, Js, ES6
-
-<div align="center">
 
 
 ## 🚀 Where to find me
@@ -86,11 +83,12 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/masud201342)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/masudur.mim/)
 
-</div>
+
 
 <div align="center">
-### Show some ❤️ by starring ⭐ some of the repositories!
+## Show some ❤️ by starring ⭐ some of the repositories!
 </div>
   
 
-
+![](https://i.imgur.com/IuzIC2j.png)
+#### Happy coding!
