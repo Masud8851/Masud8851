@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### <h1 align="center"> Hello, I'm [Masudur Rahman!](https://masudur-personal-portfolio.netlify.app) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px"> <br>  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Front-end+Web+App+(React.js)+Developer;Always+Learning+new+techonologies)](https://git.io/typing-svg) </h1>
 
-A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka, 🇧🇩 🌎. I love to work with new technologies and developing web applications like ReactJs, React Native etc🔭. Currently, I am learning how to improve the performance of both responsive and progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-placed, quality-driven team in order to build better experiences on the web-development 🚀
+A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka, 🇧🇩 🌎. I love to work with new technologies and developing web applications like ReactJs 🔭. Currently, I am learning how to improve the performance of both responsive and progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-placed, quality-driven team in order to build better experiences on the web-development 🚀
 
 
 ### Here are some ideas about me
@@ -31,8 +31,8 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 - 🎯 2022 Goals: ** Master React,Complete Rest Full API development, Complete MERN Stack. Contribute to Open Source projects.**
 - 🌇 Fun Fact: I really love to travel and explore new things and new places in my free time.
 - 📝 Please have a look at my [Resume](https://drive.google.com/file/d/1wkiK--OJw-cPIb4YzDkVaOSy1LiDC5oQ/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
-- 📫 My Portfolio: [Masudur Rahman](https://masudur-personal-portfolio.netlify.app/) 
-- 💬 <b>Ask me about:</b> React, Js, ES6.
+- 📫 My Portfolio: [Masudur Rahman](https://masudur-personal-portfolio.netlify.app/).
+- 💬 <b>Ask me about:</b>  Js, ES6, ReactJs.
 
 
 ![](https://komarev.com/ghpvc/?username=Masud8851&color=blueviolet&label=Profile+Views)
@@ -77,12 +77,11 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 
 ## 🚀 Where to find me
   
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=html&logoColor=61DAFB">](https://masudur-personal-portfolio.netlify.app/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://masudur-personal-portfolio.netlify.app/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=masud1971.cse@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/masudur-rahman15/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/masud201342)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/masudur.mim/)
-
 
 
 
