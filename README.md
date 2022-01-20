@@ -85,5 +85,5 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 
 
 
-### Show some ❤️ by starring ⭐ some of the repositories!
+### <h1 align="center"> Show some ❤️ by starring ⭐ some of the repositories! </h1>
 
