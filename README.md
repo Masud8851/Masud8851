@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="12px">
 
 ![Profile Follower Count](https://img.shields.io/github/followers/Masud8851.svg?style=for-the-badge&logo=github&label=Follower&maxAge=2592000)
 -->
@@ -18,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Github Cover](githubcover.jpg)
 
-### <h1 align="center"> Hello, I'm [Masudur Rahman!](https://masudur-personal-portfolio.netlify.app) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="12px"> <br>  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Front-end+Web+App+(React.js)+Developer;Always+Learning+new+techonologies)](https://git.io/typing-svg) </h1>
+### <h1 align="center"> Hello, I'm [Masudur Rahman!](https://masudur-personal-portfolio.netlify.app)  <br>  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Front-end+Web+App+(React.js)+Developer;Always+Learning+new+techonologies)](https://git.io/typing-svg) </h1>
 
 A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka, 🇧🇩 🌎. I love to work with new technologies and developing web applications like ReactJs 🔭. Currently, I am learning how to improve the performance of both responsive and progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-placed, quality-driven team in order to build better experiences on the web-development 🚀
 
