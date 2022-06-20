@@ -38,7 +38,6 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 ![living](https://img.shields.io/badge/living-Dhaka-3c9)
 <br />
 
-
 ## 👨‍💻 Languages and Tools:
 
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Masud8851)
