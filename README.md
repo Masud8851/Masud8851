@@ -68,7 +68,6 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masud8851&hide=TeX&layout=compact&show_icons=true&theme=dark)
 
 
-
 ## 🚀 Where to find me
   
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://masudur-personal-portfolio.netlify.app/)
