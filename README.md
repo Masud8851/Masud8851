@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 
 
-
-
 ![Github Cover](githubcover.jpg)
 
 ### <h1 align="center"> Hello, I'm [Masudur Rahman!](https://masudur-personal-portfolio.netlify.app)  <br>  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Front-end+Web+App+(React.js)+Developer;Always+Learning+new+techonologies)](https://git.io/typing-svg) </h1>
