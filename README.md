@@ -26,7 +26,7 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 - 🎓 Graduated from [Daffodil International University](https://daffodilvarsity.edu.bd/).
 - 🔭 <b>Currently working on:</b> ReactJs.
 - 🌱 <b>Getting better at:</b> Javascript and ES6.
-- 🎯 2022 Goals: **Master at React, Complete Rest Full API development, Complete MERN Stack. Contribute to Open Source projects.**
+- 🎯 2023 Goals: **Master at React, Complete Rest Full API development, Complete MERN Stack. Contribute to Open Source projects.**
 - 🌇 Fun Fact: I really love to travel and explore new things and new places in my free time.
 - 📝 Please have a look at my [Resume](https://drive.google.com/file/d/1wkiK--OJw-cPIb4YzDkVaOSy1LiDC5oQ/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 - 📫 My Portfolio: [Masudur Rahman](https://masudur-personal-portfolio.netlify.app/).
